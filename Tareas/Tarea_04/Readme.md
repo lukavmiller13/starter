@@ -9,3 +9,5 @@
 ### Por último quise sumar otro tipo de gráfico que deja más claro con líneas como se generan estas subidas y bajadas en los usos.
 
 #### La verdad esta entrega se me hizo muy difícil porque la parte de pyton y programación me cuesta muchísimo por lo que tuve que acudir a la ayuda de chat GPT que me logró ayudar y llevar a puerto los gráficos que quería visualizar. 
+
+Link Colab: https://colab.research.google.com/drive/1Z9ERNrAJAFCDceq2jZ7WwpEQ1NKJUDBI?usp=sharing
