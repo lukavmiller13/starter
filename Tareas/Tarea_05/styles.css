@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Esto asegura que el contenido se extienda al menos al 100% de la altura de la ventana del navegador */
+}
+
+header {
+    background-color: #238dff;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #238dff;
+}
+
+footer {
+    background-color: #238dff;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: auto; /* Esto empujará el pie de página hacia la parte inferior del contenedor */
+}
